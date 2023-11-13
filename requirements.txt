@@ -1,0 +1,4 @@
+numpy==1.26.2
+flask==3.0.0
+ultralytics==8.0.208
+mediapipe==0.10.8
