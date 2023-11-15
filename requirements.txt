@@ -3,3 +3,4 @@ flask==3.0.0
 ultralytics==8.0.208
 mediapipe==0.10.8
 gunicorn==21.2.0
+flask_socketio==5.3.6
